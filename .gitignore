@@ -1,0 +1,5 @@
+.idea/
+generated/
+lib/
+out/
+*.iml
